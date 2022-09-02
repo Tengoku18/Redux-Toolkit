@@ -1,9 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = [
-  { id: "1", name: " binod", email: " binod@gmail.com" },
-  { id: "2", name: " bino", email: " bino@gmail.com" },
-  { id: "3", name: " bin", email: " bin@gmail.com" },
+  { id: "1", name: " John Doe", email: " johndoe@gmail.com" },
+  { id: "2", name: " Harry Styles", email: " harry@gmail.com" },
+  { id: "3", name: " James Nielson", email: " james@gmail.com" },
 ];
 
 export const formSlice = createSlice({
